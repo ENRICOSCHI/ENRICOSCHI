@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ENRICOSCHI
-- 👀 I’m interested in videogame and videogame coding.
+- 👀 I’m interested in videogame and videogame coding(game design).
 - 🌱 I’m currently learning java,c,c#,c++,python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
