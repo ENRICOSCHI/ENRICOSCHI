@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ENRICOSCHI
+- 👋 Hi, I’m @ENRICOSCHI (Enrico Fiore) and I was born in 2005.
 - 👀 I’m interested in videogame and videogame coding(game design).
 - 🌱 I’m currently learning java,c,c#,c++,python.
 - 💞️ I’m looking to collaborate on ...
