@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 💼 My work is student.
-- Itch.io link: https://tre-game-studio.itch.io/
+- Watch for some game made by me and some friends on Itch.io link: https://tre-game-studio.itch.io/
 <!---
 ENRICOSCHI/ENRICOSCHI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
