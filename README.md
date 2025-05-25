@@ -2,7 +2,7 @@
 - 👀 I’m interested in videogame and videogame coding(game design).
 - 🌱 I’m currently learning java,c,c#,c++,python,blender,unity.
 - 💞️ I’m looking to collaborate on Indie games.
-- 📫 How to reach me on my socials dm.
+- 📫 You can reach me on my socials dm.
 - 💼 I'm a student at UNIVPM.
 - Watch for some games made by me with some friends on Itch.io link: https://tre-game-studio.itch.io/
 <!---
