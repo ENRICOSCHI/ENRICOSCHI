@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ENRICOSCHI (Enrico Fiore) and I was born in 2005.
 - 👀 I’m interested in coding and videogame (game design).
-- 🌱 I've learned programming language like: C#, C, Java and Python.
+- 🌱 I've learned programming language like: C#, C, Java, Python and Matlab.
 - I currently use Unity for game development, and I'm also interested in learning Unreal Engine and Godot.
 - For 3D modelling, I'm familiar with Blender, but I'm currently learing Rhino as well.
 - 💼 I'm currently a enrolled in the "Videogiochi e Realtà Aumentata" courses at UNIVPM.
