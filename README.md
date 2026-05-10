@@ -7,6 +7,8 @@
 - Watch for some games made with some friends on Itch.io, link: https://tre-game-studio.itch.io/
 - My IG profile: https://www.instagram.com/enricoschi0_0/
 - Work in project -> 1) A mobile game for Android that uses the mechanics of randomness. 2) Project that uses the mechanics of Just Dance (motion recognition) for teach Taichi.
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ENRICOSCHI?cardType=level&theme=blue-green&fontFamily=Radley&preferLogin=false)](https://git.io/awesome-stats-card)
 <!---
 ENRICOSCHI/ENRICOSCHI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
